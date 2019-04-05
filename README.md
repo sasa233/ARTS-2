@@ -11,6 +11,6 @@
 打卡第一周：
 
 - Algorithm：[01-SyquaresOfSortedArray](./Algorithm/01-SyquaresOfSortedArray.md)
-- Review：[01-The Key To Accelerating Your Coding Skills](./Review/01-The Key To Accelerating Your Coding Skills.md)
+- Review：[01-The Key To Accelerating Your Coding Skills](./Review/The%20Key%20To%20Accelerating%20Your%20Coding%20Skills.md)
 - Tip：[01-Const](./Tips/01-Const.md)
 - Share：[01-interface&abstractClass](./Share/01-interface&abstractClass.md)
